@@ -4,7 +4,8 @@ Fethiye ve çevresindeki satılık ve kiralık konutları tanıtmak için hazır
 
 ## Yerel olarak görüntüleme
 
-index.html dosyasını bir tarayıcıda açın. Proje derleme adımı veya paket kurulumu gerektirmez.
+https://egerzz.github.io/fethiye-emlak/
+
 
 ## GitHub Pages ile yayınlama
 
