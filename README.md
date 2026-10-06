@@ -9,7 +9,7 @@ Fethiye ve çevresindeki satılık ve kiralık konutları tanıtan; Türkçe, mo
 
 ## Canlı Demo
 
-🌐 **[Siteyi görüntüle](https://egerzz.github.io/fethiye-emlak/)**
+🌐 **[fethiye-emlak](https://egerzz.github.io/fethiye-emlak/)**
 
 <!-- Ekran görüntüsü eklemek için dosyayı docs/ klasörüne koyup aşağıdaki satırı etkinleştirin:
 ![Fethiye Emlak ana sayfa](docs/screenshot.png)
